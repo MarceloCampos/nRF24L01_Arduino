@@ -12,12 +12,12 @@ https://www.mysensors.org/hardware
 
 ---
 
-![Screenshot](nRF24L01-Board-Render1.png)
+![Screenshot](nRF24L01-Board-Render1.PNG)
 
-
+---
 ![Screenshot](nRF24L01Arduino-Board1.jpg)
 
-
+---
 Mod para medir bateria de alimentação
 ![Screenshot](nRF24L01Arduino-ModBatMeter.jpg)
 
