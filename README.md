@@ -23,7 +23,7 @@ Mod para medir bateria de alimentação
 
 ---
 Mod para medir bateria de alimentação
-![Screenshot](nRF24L01_Arduino Pinout Placa 3D.png)
+![Screenshot]("nRF24L01_Arduino Pinout Placa 3D.png")
 
 
 
