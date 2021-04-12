@@ -21,6 +21,9 @@ https://www.mysensors.org/hardware
 Mod para medir bateria de alimentação
 ![Screenshot](nRF24L01Arduino-ModBatMeter.jpg)
 
+---
+Mod para medir bateria de alimentação
+![Screenshot](nRF24L01_Arduino Pinout Placa 3D.png)
 
 
 
